@@ -13,7 +13,9 @@ public class Main {
 //            System.out.println("detail");
 //        }
 
-        System.out.println("new linw");
+        System.out.println("new line");
+
+        System.out.println("almkdnjibhfjkglno[webihpgjktrmgor[jihgpwtrsmf");
 
     }
 
