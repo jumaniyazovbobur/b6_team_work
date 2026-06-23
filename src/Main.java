@@ -19,6 +19,8 @@ public class Main {
 
         System.out.println("almkdnjibhfjkglno[webihpgjktrmgor[jihgpwtrsmf");
 
+        System.out.println("new linw" + "new linw");
+
     }
 
 }
