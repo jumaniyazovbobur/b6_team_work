@@ -6,7 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello, welcome!");
 
-//        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
 //            System.out.println("Mazgi" + i);
@@ -15,7 +15,9 @@ public class Main {
 
         System.out.println("not new Line");
         System.out.println("That is my change");
-
+        System.out.println("Mazgi" + i);
+        System.out.println("Hello");
+        }
     }
 
 }
