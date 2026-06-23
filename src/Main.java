@@ -13,7 +13,7 @@ public class Main {
 //            System.out.println("detail");
 //        }
 
-        System.out.println("new linw");
+        System.out.println("ahhahahaahah");
 
     }
 
